@@ -1,0 +1,14 @@
+2000000 = 2mb
+DONE IS BETTER THAN PERFECT
+TODO::
+:: LIMPO :: Remember to get the 
+1) Upload the audio and video files
+2) 
+=restrict the file type uploaded
+:::create a place to upload congregations from
+=> congregation
+=>state e.g. Delta State
+=>minister's name
+=> minister's phone number
+=> physical address
+=> google maps location

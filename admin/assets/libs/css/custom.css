@@ -1,0 +1,31 @@
+/*General Styles*/
+.nav-left-sidebar .nav-link i {
+    margin-right: 22px;
+}
+
+input[type=file] {
+    cursor: pointer;
+}
+
+.txt-red {
+    color: red;
+}
+
+.txt-green {
+    color: green;
+}
+
+
+/*SERMONS*/
+#sermon-audio-message {
+    display: none;
+}
+
+#sermon-pdf-message {
+	display: none;
+}
+
+#sermon-banner-message {
+    display: none;
+}
+

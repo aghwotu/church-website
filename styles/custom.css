@@ -1,0 +1,11 @@
+.donations_funds_value
+{
+	font-size: 26px;
+}
+
+@media only screen and (max-width: 575px) {
+	.donations_funds_value
+	{
+		font-size: 22px;
+	}
+}
