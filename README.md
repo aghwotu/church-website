@@ -1,5 +1,10 @@
-# Church Website
-This is a website and a dashboard for a Church. 
+# Church Website and Admin Dashboard
 
-#### Technologies
+#### Built with
+- PHP
+- HTML
+- CSS
+- JavaScript
 
+#### Features
+- No Framework is used for this project
